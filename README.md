@@ -28,6 +28,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Dominic Orchard and Tomas Petricek.
 
 * **Promoting Functions to Type Families in Haskell**  
+  ([paper](http://www.cis.upenn.edu/~eir/papers/2014/promotion/promotion.pdf)) ([extended paper](http://www.cis.upenn.edu/~eir/papers/2014/promotion/promotion-ext.pdf))  
   by Richard A. Eisenberg and Jan Stolarek.
 
 * **SmartCheck: Automatic and Efficient Counterexample Reduction and Generalization**  
