@@ -20,6 +20,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Atze van der Ploeg and Oleg Kiselyov. 
 
 * **A seamless, client-centric programming model for type safe web applications**  
+  ([paper](http://haste-lang.org/haskell14.pdf))  
   by Anton Ekblad and Koen Claessen.
 
 * **Effect Handlers in Scope**  
