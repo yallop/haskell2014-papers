@@ -36,6 +36,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Richard A. Eisenberg and Jan Stolarek.
 
 * **SmartCheck: Automatic and Efficient Counterexample Reduction and Generalization**  
+  ([paper](https://github.com/leepike/SmartCheck/raw/master/paper/paper.pdf))  
   by Lee Pike.
 
 * **LiquidHaskell: Refinement Types in the Real World**  
