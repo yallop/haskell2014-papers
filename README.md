@@ -6,6 +6,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
 [haskell2014-accepted]: http://www.haskell.org/haskell-symposium/2014/accepted.html
 
 * **Experience Report: The Next 1100 Haskell Programmers**  
+  ([paper](http://www21.in.tum.de/~traytel/papers/haskell14-teaching/teaching.pdf))  
   by Jasmin Christian Blanchette, Lars Hupel, Tobias Nipkow, Lars Noschinski and Dmitriy Traytel.
 
 * **Experience Report: Type-checking Polymorphic Units for Astrophysics Research in Haskell**
