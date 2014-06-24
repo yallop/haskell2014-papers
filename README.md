@@ -9,7 +9,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   ([paper](http://www21.in.tum.de/~traytel/papers/haskell14-teaching/teaching.pdf))  
   by Jasmin Christian Blanchette, Lars Hupel, Tobias Nipkow, Lars Noschinski and Dmitriy Traytel.
 
-* **Experience Report: Type-checking Polymorphic Units for Astrophysics Research in Haskell**
+* **Experience Report: Type-checking Polymorphic Units for Astrophysics Research in Haskell**  
   ([paper](http://www.cis.upenn.edu/~eir/papers/2014/units/units.pdf))  
   by Takayuki Muranushi and Richard A. Eisenberg. 
 
