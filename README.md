@@ -35,6 +35,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Lee Pike.
 
 * **LiquidHaskell: Refinement Types in the Real World**  
+  ([paper](http://goto.ucsd.edu/~nvazou/real_world_liquid.pdf))  
   by Niki Vazou, Eric L. Seidel and Ranjit Jhala.
 
 * **The HdpH DSLs for Scalable Reliable Computation**  
