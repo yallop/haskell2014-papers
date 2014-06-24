@@ -1,6 +1,6 @@
 ## Haskell 2014 accepted papers
 
-Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haskell Symposium][haskell2014] (Haskell 2014)
+Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haskell Symposium][haskell2014] (Haskell 2014).  (You may also be interested in [ICFP 2014 accepted papers](https://github.com/yallop/icfp2014-papers).)
 
 [haskell2014]: http://www.haskell.org/haskell-symposium/2014/
 [haskell2014-accepted]: http://www.haskell.org/haskell-symposium/2014/accepted.html
