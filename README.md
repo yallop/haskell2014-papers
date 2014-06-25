@@ -59,5 +59,5 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Amit Levy, David Terei, Deian Stefan and David Mazieres.
 
 * **NetBSD Sound Drivers in Haskell (Systems Demo)**  
-  ([long-version paper](http://metasepi.org/doc/metasepi-icfp2014.pdf))
+  ([long-version paper](http://metasepi.org/doc/metasepi-icfp2014.pdf))  
   by Kiwamu Okabe and Takayuki Muranushi.
