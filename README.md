@@ -18,7 +18,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by J. Garrett Morris.
 
 * **Reflection without Remorse: Revealing a hidden sequence to speed up monadic reflection**  
-  ([paper](http://homepages.cwi.nl/~ploeg/papers/zseq.pdf)) 
+  ([paper](http://homepages.cwi.nl/~ploeg/papers/zseq.pdf))  
   by Atze van der Ploeg and Oleg Kiselyov. 
 
 * **A seamless, client-centric programming model for type safe web applications**  
