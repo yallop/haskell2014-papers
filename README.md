@@ -45,6 +45,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Niki Vazou, Eric L. Seidel and Ranjit Jhala.
 
 * **The HdpH DSLs for Scalable Reliable Computation**  
+  ([paper](http://www.macs.hw.ac.uk/~rs46/papers/haskell2014/HdpH_DSLs-haskell14.pdf))  
   by Patrick Maier, Robert Stewart and Phil Trinder.
 
 * **Indentation-Sensitive Parsing for Parsec**  
