@@ -29,6 +29,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze.
 
 * **Embedding effect systems in Haskell**  
+  ([paper](https://www.cl.cam.ac.uk/~dao29/publ/haskell14-effects.pdf))  
   by Dominic Orchard and Tomas Petricek.
 
 * **Promoting Functions to Type Families in Haskell**  
