@@ -15,6 +15,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Takayuki Muranushi and Richard A. Eisenberg. 
 
 * **A Simple Semantics for Haskell Overloading**  
+  ([paper](http://homepages.inf.ed.ac.uk/jmorri14/pubs/morris-haskell14-oversem.pdf))  
   by J. Garrett Morris.
 
 * **Reflection without Remorse: Revealing a hidden sequence to speed up monadic reflection**  
