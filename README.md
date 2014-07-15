@@ -54,6 +54,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Michael D. Adams and Ömer Sinan Ağacan.
 
 * **Building Secure Systems with LIO (Systems Demo)**  
+  ([paper](http://www.scs.stanford.edu/~deian/pubs/stefan:2014:building-plas.pdf))  
   by Deian Stefan and Alejandro Russo.
 
 * **Foreign Inline Code (Systems Demo)**  
