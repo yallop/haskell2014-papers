@@ -27,7 +27,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Anton Ekblad and Koen Claessen.
 
 * **Effect Handlers in Scope**  
-  ([paper](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf))  
+  ([paper](http://users.ugent.be/~tschrijv/Research/papers/haskell2014.pdf))  
   by Nicolas Wu, Tom Schrijvers and Ralf Hinze.
 
 * **Embedding effect systems in Haskell**  
