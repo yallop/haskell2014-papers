@@ -61,6 +61,7 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
   by Manuel Chakravarty.
 
 * **Making Web Applications -XSafe (Systems Demo)**  
+  ([paper](http://www.scs.stanford.edu/~deian/pubs/levy:2014:making.pdf))  
   by Amit Levy, David Terei, Deian Stefan and David Mazieres.
 
 * **NetBSD Sound Drivers in Haskell (Systems Demo)**  
