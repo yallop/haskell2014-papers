@@ -6,6 +6,8 @@ Links to [accepted papers][haskell2014-accepted] for the [2014 ACM SIGPLAN Haske
 [haskell2014-accepted]: http://www.haskell.org/haskell-symposium/2014/accepted.html
 [icfp2014-accepted]: https://github.com/yallop/icfp2014-papers
 
+Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/haskell2014-papers.svg)](https://travis-ci.org/yallop/haskell2014-papers)
+
 * **Keynote: UniKernels: Functional Operating System Design**  
   ([video](https://www.youtube.com/watch?v=FkTPE99egy4))
   ([video of discussion](https://www.youtube.com/watch?v=FkTPE99egy4))  
