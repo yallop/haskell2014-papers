@@ -37,7 +37,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/ha
   by J. Garrett Morris.
 
 * **Reflection without Remorse: Revealing a hidden sequence to speed up monadic reflection**  
-  ([paper](http://homepages.cwi.nl/~ploeg/papers/zseq.pdf))
+  ([paper](http://okmij.org/ftp/Haskell/zseq.pdf))
   ([video](https://www.youtube.com/watch?v=_XoI65Rxmss))  
   by Atze van der Ploeg and Oleg Kiselyov. 
 
